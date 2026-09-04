@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Mohamed K. Hammad â€” security infrastructure engineer" width="100%">
+  <img src="assets/header.svg" alt="Mohamed K. Hammad — security infrastructure engineer" width="100%">
 </p>
 
 <p align="center">
@@ -43,4 +43,3 @@ Django, FastAPI, Next.js, Flutter, PostgreSQL, Redis, Celery, Docker, Linux.
 <p align="center">
   <sub>Open to conversations about detection engineering, SIEM architecture, and security tooling.</sub>
 </p>
-
