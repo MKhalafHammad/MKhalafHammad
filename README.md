@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://mkhalafhammad.com"><img src="https://img.shields.io/badge/Portfolio-mkhalafhammad.com-101a26?style=flat-square&logo=firefox-browser&logoColor=4ec9b0"></a>
   <a href="https://www.linkedin.com/in/m-khalafhammad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-101a26?style=flat-square&logo=linkedin&logoColor=4ec9b0"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-101a26?style=flat-square&logo=maildotru&logoColor=f0a14b"></a>
+  <a href="mailto:m.khalafhammad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-101a26?style=flat-square&logo=maildotru&logoColor=f0a14b"></a>
 </p>
 
 I build and run the plumbing that security operations depends on. Day to day that means
